@@ -2,6 +2,8 @@
 
 A script that uses PRAW and OpenAI to analyze a subreddit and identify pain points of users.
 
+<img width="444" alt="screenshot" src="https://github.com/BuffMcBigHuge/subreddit-summarizer/assets/20268348/b63e43c0-b0ae-4915-a32b-97532ed23f2f">
+
 ## Requirements
 An [OpenAI Key](https://platform.openai.com/api-keys) and [Reddit App](https://old.reddit.com/prefs/apps/).
 ```
